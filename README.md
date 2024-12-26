@@ -1,4 +1,4 @@
-# Build a World Cup Database
+# World Cup Database
 
 This repository contains the solution for the **Build a World Cup Database** project. This is one of the required projects to earn the freeCodeCamp certification in Relational Database concepts. The goal of this project is to create a PostgreSQL database and use Bash scripts to populate and query the database for meaningful statistics.
 
